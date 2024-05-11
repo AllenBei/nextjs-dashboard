@@ -1,2 +1,5 @@
 # nextjs-dashboard
-关于自建nextjs 项目基础,用于 demo 使用
+
+Next.js Recommend Admin Dashboard, mock customer and invoices data,and authentication.
+
+Next + postgresSql + Typescript

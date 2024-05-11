@@ -1,12 +1,12 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
-  "/login/page": "app/login/page.js",
   "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/login/page": "app/login/page.js",
   "/page": "app/page.js",
   "/opengraph-image.png/route": "app/opengraph-image.png/route.js",
+  "/dashboard/invoices/create/page": "app/dashboard/invoices/create/page.js",
   "/dashboard/invoices/[id]/edit/page": "app/dashboard/invoices/[id]/edit/page.js",
   "/dashboard/invoices/page": "app/dashboard/invoices/page.js",
-  "/dashboard/customers/page": "app/dashboard/customers/page.js",
   "/dashboard/(overview)/page": "app/dashboard/(overview)/page.js",
-  "/dashboard/invoices/create/page": "app/dashboard/invoices/create/page.js"
+  "/dashboard/customers/page": "app/dashboard/customers/page.js"
 }
